@@ -5,12 +5,16 @@
 O Aplicatvio consiste em, forneceder um portifólio simples, eficaz para mostruário em produtos através de segmentos como: Geotecnia, Industrial, Laboratoria e Construção Civil.
 Projeto em andamento ...
 
-![Tela Login](https://drive.google.com/file/d/1FJvwmNl8Iik7izXqVZaCGAfWUTipIeQD/view?usp=sharing)
-![01](https://github.com/user-attachments/assets/662e7a1f-2b55-481d-a8b2-50a4d48551fe)
+![Tela de Login](https://github.com/user-attachments/assets/662e7a1f-2b55-481d-a8b2-50a4d48551fe)
 
-![Tela Home](https://drive.google.com/file/d/1cRixHOXi3UpyIWFj4DZXOW_rIN8og-W4/view?usp=sharing)
-![Tela Fornecedores]([https://drive.google.com/file/d/1FJvwmNl8Iik7izXqVZaCGAfWUTipIeQD/view?usp=sharing](https://drive.google.com/file/d/1mTPnZabv3z4tJ53SQw80q18UPnjagXe8/view?usp=sharing))
-![Tela Produtos](https://drive.google.com/file/d/1u_I1OmYWWjBv5iJIIBuYY-oM640sXBfC/view?usp=sharing)
-![Tela Contato](https://drive.google.com/file/d/1CrHfRt2rzBAOcz8yEhocwR99FkWYq71b/view?usp=sharing)
-![Tela Redes Sociais](https://drive.google.com/file/d/1G0HhKCsWJQ6jYPyrIxqPoBhaIWIPg5ao/view?usp=sharing)
+![Tela Home](https://github.com/user-attachments/assets/60fb65b4-258f-41a9-9c95-c28fc8f198d2)
+
+![Tela Fornecedores](https://github.com/user-attachments/assets/f84dbf45-32e2-4a77-9a69-269b55b2af4a)
+
+![Tela Produtos](https://github.com/user-attachments/assets/6d174648-07ee-4564-828d-c1af8025a635)
+
+![Tela Contato](https://github.com/user-attachments/assets/eefdbde7-4eff-4fe3-93b5-82fa25de7f42)
+
+![Tela Redes Sociais](https://github.com/user-attachments/assets/9ca8e20b-2fbe-4e21-abcc-0cf89ce1e9bf)
+
 
